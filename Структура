@@ -1,10 +1,1 @@
-hyperliquid_screener/
-├── bot.py              # Точка входа
-├── config.py           # Конфигурация
-├── database.py         # SQLite / настройки
-├── screener.py         # Логика скрининга
-├── hl_client.py        # Hyperliquid WebSocket + REST
-├── signals.py          # Форматирование сигналов
-├── indicators.py       # RSI, объём, pump/dump
-├── requirements.txt
-└── .env
+
